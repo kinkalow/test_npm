@@ -8,7 +8,7 @@ describe("fizzbuzz", () => {
     expect(fizzbuzz(9)).toStrictEqual("Fizz");
   });
   it("returns Buzz", () => {
-    expect(fizzbuzz(7)).toStrictEqual("Buzz");
+    expect(fizzbuzz(10)).toStrictEqual("Buzz");
   });
   it("returns the value", () => {
     expect(fizzbuzz(7)).toStrictEqual("7");
