@@ -11,6 +11,6 @@ describe("fizzbuzz", () => {
     expect(fizzbuzz(7)).toStrictEqual("Buzz");
   });
   it("returns the value", () => {
-    expect(fizzbuzz(30)).toStrictEqual("7");
+    expect(fizzbuzz(7)).toStrictEqual("7");
   });
 });
