@@ -1,6 +1,0 @@
-ci:
-    - '.github/**/*.yml'
-doc:
-    - '**/*.md'
-source:
-    - '**/*.js'
